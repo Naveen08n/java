@@ -1,3 +1,4 @@
+//Poly
 class Outer{
 	static {
 		System.out.println("hello");
